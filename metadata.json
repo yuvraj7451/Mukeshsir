@@ -1,0 +1,6 @@
+{
+  "name": "Mukesh CS Academy",
+  "description": "Interactive educational portal for Computer Science Teacher Mukesh Kumar Yadav, featuring courses, study materials, notice board, student dashboard, and AI study tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
